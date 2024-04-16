@@ -1,0 +1,36 @@
+.todo__list {
+    margin-top: 20px;
+}
+.todo__modal {
+    top: 20% !important;
+    left: 30% !important;
+}
+.todo__updateBtn {
+    margin: 20px !important;
+    justify-content: center !important;
+}
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App__grid {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+  }
+  
+  .App_submitBtn {
+    margin-left: 12px !important;
+    background-color: #d2d2d2;
+  }
+
+  .todo__modal {
+    top: 20% !important;
+    left: 10% !important;
+}
+.todo__modalForm {
+    margin-top: 20px;
+}
+.todo__submit {
+    margin-left: 20px;
+}
